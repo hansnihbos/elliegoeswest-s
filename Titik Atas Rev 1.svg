@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128.61 130.11">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        fill: #bd0000;
+      }
+
+      .cls-6 {
+        fill: red;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1129.51" y1="84.35" x2="1135.1" y2="84.35" gradientTransform="translate(1251.39 -145.62) rotate(176.72) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fe5151"/>
+      <stop offset="1" stop-color="red"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1146.58" y1="126.25" x2="1146.63" y2="123.35" gradientTransform="translate(1273.34 -111.62) rotate(-179.52) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-4">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_1-2" data-name="Layer 1">
+        <g>
+          <circle cx="108.09" cy="3.73" r=".77"/>
+          <circle cx="99" cy="3.73" r=".77"/>
+          <ellipse cx="90.28" cy="3.62" rx=".77" ry="1.14"/>
+          <ellipse cx="81.23" cy="3.62" rx="1.14" ry="1.68"/>
+          <ellipse cx="71.89" cy="3.64" rx="1.14" ry="1.28"/>
+          <ellipse cx="62.69" cy="3.64" rx=".81" ry=".91"/>
+          <ellipse cx="44.84" cy="14.74" rx=".81" ry=".91"/>
+          <ellipse cx="35.78" cy="26.27" rx="1.19" ry="1.33"/>
+          <ellipse cx="44.71" cy="26.27" rx="1.69" ry="1.9"/>
+          <ellipse cx="53.92" cy="26.27" rx="2.1" ry="2.36"/>
+          <ellipse cx="62.82" cy="26.24" rx="2.24" ry="2.84"/>
+          <ellipse cx="71.96" cy="26.24" rx="2.35" ry="2.98"/>
+          <ellipse cx="81.02" cy="26.24" rx="2.35" ry="2.98"/>
+          <ellipse cx="90.08" cy="26.24" rx="2.35" ry="2.98"/>
+          <ellipse cx="99" cy="25.74" rx="1.96" ry="2.49"/>
+          <ellipse cx="53.99" cy="14.74" rx="1.37" ry="1.53"/>
+          <ellipse cx="62.95" cy="14.74" rx="1.66" ry="1.87"/>
+          <ellipse cx="72.21" cy="14.74" rx="1.87" ry="2.1"/>
+          <ellipse cx="81.02" cy="14.74" rx="1.87" ry="2.1"/>
+          <ellipse cx="90.09" cy="14.74" rx="1.87" ry="2.1"/>
+          <ellipse cx="99" cy="14.74" rx="1.87" ry="2.1"/>
+          <ellipse cx="108.21" cy="14.74" rx="1.56" ry="1.75"/>
+          <ellipse cx="117.04" cy="14.74" rx="1.09" ry="1.22"/>
+          <ellipse cx="126.3" cy="14.74" rx=".67" ry=".76"/>
+        </g>
+        <g>
+          <circle cx="1.79" cy="56.61" r=".77"/>
+          <circle cx="1.79" cy="65.71" r=".77"/>
+          <ellipse cx="1.68" cy="74.43" rx="1.14" ry=".77"/>
+          <ellipse cx="1.68" cy="83.48" rx="1.68" ry="1.14"/>
+          <ellipse cx="1.71" cy="92.82" rx="1.28" ry="1.14"/>
+          <ellipse cx="1.71" cy="102.02" rx=".91" ry=".81"/>
+          <ellipse cx="12.8" cy="119.86" rx=".91" ry=".81"/>
+          <ellipse cx="24.33" cy="128.92" rx="1.33" ry="1.19"/>
+          <ellipse cx="24.33" cy="120" rx="1.9" ry="1.69"/>
+          <ellipse cx="24.33" cy="110.79" rx="2.36" ry="2.1"/>
+          <ellipse cx="24.3" cy="101.89" rx="2.84" ry="2.24"/>
+          <ellipse cx="24.3" cy="92.75" rx="2.98" ry="2.35"/>
+          <ellipse cx="24.3" cy="83.69" rx="2.98" ry="2.35"/>
+          <ellipse cx="24.3" cy="74.63" rx="2.98" ry="2.35"/>
+          <ellipse cx="23.81" cy="65.71" rx="2.49" ry="1.96"/>
+          <ellipse cx="12.8" cy="110.71" rx="1.53" ry="1.37"/>
+          <ellipse cx="12.8" cy="101.75" rx="1.87" ry="1.66"/>
+          <ellipse cx="12.8" cy="92.5" rx="2.1" ry="1.87"/>
+          <ellipse cx="12.8" cy="83.69" rx="2.1" ry="1.87"/>
+          <ellipse cx="12.8" cy="74.61" rx="2.1" ry="1.87"/>
+          <ellipse cx="12.8" cy="65.71" rx="2.1" ry="1.87"/>
+          <ellipse cx="12.8" cy="56.49" rx="1.75" ry="1.56"/>
+          <ellipse cx="12.8" cy="47.67" rx="1.22" ry="1.09"/>
+          <ellipse cx="12.8" cy="38.41" rx=".76" ry=".67"/>
+          <ellipse cx="23.81" cy="56.35" rx="2.37" ry="2.11"/>
+          <ellipse cx="23.81" cy="46.3" rx="2.37" ry="2.11"/>
+          <ellipse cx="23.81" cy="35.91" rx="1.97" ry="1.76"/>
+          <ellipse cx="23.81" cy="25.95" rx="1.38" ry="1.23"/>
+          <ellipse cx="23.81" cy="15.5" rx=".86" ry=".76"/>
+        </g>
+        <g>
+          <g>
+            <path class="cls-3" d="M128.59,3.41c-1.61.75-2.15,1.36-2.83,3.2-.65-1.85-1.18-2.48-2.78-3.26,1.61-.75,2.15-1.36,2.83-3.2.65,1.85,1.18,2.48,2.78,3.26Z"/>
+            <path class="cls-1" d="M125.72,1.17c-.12.25-.23.49-.37.73-.13.24-.26.47-.43.68-.15.21-.38.35-.62.46-.24.11-.5.19-.76.23l-.36.07.35.12c.22.07.43.19.63.31.2.13.39.27.56.44.17.16.33.35.46.55.14.19.24.41.34.63-.06-.23-.14-.46-.26-.68-.11-.22-.26-.42-.43-.6-.17-.19-.36-.35-.57-.49-.21-.14-.43-.26-.67-.35l-.02.19c.29-.05.55-.13.81-.25.25-.12.5-.3.66-.54.16-.23.28-.48.39-.73.1-.25.2-.51.27-.77Z"/>
+            <path class="cls-5" d="M127.59,2.94c-.32-.2-.62-.43-.87-.72-.5-.59-.8-1.3-1.05-2h.29c-.25.7-.55,1.41-1.06,2-.51.59-1.2.94-1.88,1.23v-.15c.65.35,1.3.74,1.79,1.32.48.58.8,1.28,1.07,1.97h-.24c.25-.7.55-1.41,1.05-1.99.25-.29.56-.52.88-.71.32-.19.66-.35,1-.46-.33-.12-.67-.28-.99-.48ZM127.66,4.01c-.3.21-.56.45-.79.73-.45.56-.72,1.25-.99,1.93h0s-.04.07-.08.08c-.07.02-.14-.01-.16-.08-.23-.7-.45-1.41-.91-1.99-.45-.58-1.12-.94-1.78-1.24-.02,0-.03-.02-.04-.04-.02-.04,0-.09.03-.11h0c.65-.34,1.28-.71,1.73-1.27.45-.55.72-1.24.98-1.92.02-.04.05-.08.09-.09.08-.03.17.01.2.1.25.69.5,1.39.94,1.95.22.28.48.53.77.75.29.22.6.4.93.61-.33.2-.65.38-.94.59Z"/>
+          </g>
+          <path class="cls-2" d="M127.35,3.4c-.9.42-1.2.76-1.58,1.79-.36-1.03-.66-1.38-1.55-1.81.9-.42,1.2-.76,1.58-1.79.36,1.03.66,1.38,1.55,1.81Z"/>
+        </g>
+        <g>
+          <rect class="cls-6" x="23.03" y="21.12" width="1.56" height="3.68"/>
+          <rect class="cls-6" x="23.03" y="27.1" width="1.56" height="3.68"/>
+          <rect class="cls-6" x="26.01" y="24.11" width="1.56" height="3.68" transform="translate(52.74 -.85) rotate(90)"/>
+          <rect class="cls-6" x="20.04" y="24.11" width="1.56" height="3.68" transform="translate(46.77 5.13) rotate(90)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
